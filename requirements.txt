@@ -1,0 +1,19 @@
+# Manipulación y análisis de datos
+pandas
+numpy
+
+# Machine Learning (Regresión Logística, Árboles, Random Forest, PCA, K-Means, Métricas)
+scikit-learn
+
+# Modelo ganador
+xgboost
+
+# Balanceo de clases (SMOTE)
+imbalanced-learn
+
+# Visualización de datos (Curvas ROC, Gráficos de Clústeres)
+matplotlib
+seaborn
+
+# Entorno de ejecución
+jupyter
